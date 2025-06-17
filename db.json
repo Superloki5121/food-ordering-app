@@ -1,0 +1,30 @@
+{
+  "orders": [
+    {
+      "id": "1750177803462",
+      "table": "6",
+      "items": [
+        {
+          "id": 1,
+          "name": "Sambar Idly",
+          "price": 40,
+          "qty": 2
+        }
+      ],
+      "status": "accepted"
+    },
+    {
+      "id": "1750177831437",
+      "table": "6",
+      "items": [
+        {
+          "id": 1,
+          "name": "Sambar Idly",
+          "price": 40,
+          "qty": 4
+        }
+      ],
+      "status": "rejected"
+    }
+  ]
+}
